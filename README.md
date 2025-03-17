@@ -28,7 +28,9 @@ The main goal of this project is to provide a simple, user-friendly blogging pla
 
 ## 🌎 Image Demo
 ![Preview](./Client/src/assets/Login.jpg)
-
+![Preview](./Client/src/assets/Blog_All.jpg)
+![Preview](./Client/src/assets/Edit_Blog.jpg)
+![Preview](./Client/src/assets/Create_Blog.jpg)
 ## ⚙️ Setup & Installation
 
 ### **1️⃣ Clone the repository**
@@ -57,8 +59,6 @@ npm run serve
 cd Server
 npm start
 
-
-![Blog Overview](https://raw.githubusercontent.com/Giau39/Blog_Clone/main/Client/src/assets/Login.jpg)
 
 
 
