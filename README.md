@@ -27,7 +27,7 @@ The main goal of this project is to provide a simple, user-friendly blogging pla
 - Multer (File Upload)
 
 ## 🌎 Image Demo
-![Preview](./client/src/assets/images/Login.jpg)
+![Preview](./Client/src/assets/images/Login.jpg)
 
 ## ⚙️ Setup & Installation
 
