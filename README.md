@@ -55,6 +55,7 @@ cd Server
 npm start
 
 
-![image](https://github.com/user-attachments/assets/7dac870a-6bb0-4990-bab7-95db55444242)
+![Blog Overview](https://github.com/Giau39/Blog_Clone/blob/main/Client/src/assets/Login.jpg)
+
 
 
