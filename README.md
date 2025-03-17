@@ -26,6 +26,9 @@ The main goal of this project is to provide a simple, user-friendly blogging pla
 - JWT Authentication
 - Multer (File Upload)
 
+## 🌎 Image Demo
+![Preview](./client/src/assets/images/Login.jpg)
+
 ## ⚙️ Setup & Installation
 
 ### **1️⃣ Clone the repository**
