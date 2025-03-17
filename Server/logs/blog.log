@@ -1,0 +1,10 @@
+2025-03-17 12:20:45 | INFO | user: John viewed his blogs
+2025-03-17 12:20:49 | INFO | Admin: JohnRetrieved all blogs
+2025-03-17 12:20:51 | INFO | user: John viewed his blogs
+2025-03-17 12:20:54 | INFO | Admin: JohnRetrieved all blogs
+2025-03-17 12:20:54 | INFO | user: John viewed his blogs
+2025-03-17 12:20:59 | INFO | user: John viewed his blogs
+2025-03-17 12:22:30 | INFO | user: John viewed his blogs
+2025-03-17 12:26:58 | INFO | {"user":"67d7a9af0db6dabdf549b0ef","title":"Mpc Wallet","body":"This system is designed to handle Ethereum transactions efficiently using a combination of API servers, workers, and a message queue (Kafka). It ensures seamless transaction creation, status updates, and interaction with the blockchain.","image":"images\\2025-03-17T05-26-58.233ZScreenshot 2025-03-13 102824.png","date":"17/3/2025","_id":"67d7b2a20e7b5889b884f4ec","__v":0}
+2025-03-17 12:26:59 | INFO | user: John viewed his blogs
+2025-03-17 12:27:34 | INFO | Admin: JohnRetrieved all blogs
